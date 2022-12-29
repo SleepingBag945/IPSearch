@@ -18,7 +18,7 @@ IP.db为sqlite的IP数据库，若此工具不满足要求可用此库自己实�
 
 # 使用方法
 
-1.在Release下下载适合自己系统的IPSearch。
+1.下载源码编译或者在Release下载适合自己系统的IPSearch。
 
 2.下载IP.zip,解压后把IP.db放在IPSearch一起
 
