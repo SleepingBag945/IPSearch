@@ -19,7 +19,9 @@ IP.db为sqlite的IP数据库，若此工具不满足要求可用此库自己实�
 # 使用方法
 
 1.在Release下下载适合自己系统的IPSearch。
+
 2.下载IP.db
 PS:github上传限制25m,IP.db压缩后仍有50M..所以用奶牛快传吧。
 https://cowtransfer.com/s/7700ce28238f4c 点击链接查看 [ IP.7z ] ，或访问奶牛快传 cowtransfer.com 输入传输口令 ra6w6t 查看；
+
 3.把IP.db放在IPSearch一起
